@@ -1,5 +1,4 @@
 # innoscripta
-Test Project
 
 ### installation
 
